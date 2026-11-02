@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Duka Smart Electronics 
 
 ## 1. Project Overview
@@ -178,10 +177,7 @@ The analysis provides a foundation for:
 ## 12. Conclusion
 
 This project demonstrates the practical application of PostgreSQL in solving retail business problems.
-
 It progresses from basic data retrieval and aggregation to advanced SQL techniques, reusable database objects and management reporting.
 
-The overall objective is to demonstrate how SQL can transform transactional data into information that supports business analysis and management decision-making.
-=======
 # Retail-sales-analytics
 >>>>>>> 4363549f6c963b0047ba2fc5656315a6689e8bf7

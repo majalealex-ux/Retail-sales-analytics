@@ -1,4 +1,6 @@
 # Duka Smart Electronics – Retail Analytics Project
+# Duka Smart Electronics 
+
 
 ## 1. Project Overview
 
@@ -226,3 +228,5 @@ By combining data retrieval, aggregations, joins, CTEs, subqueries, window funct
 The findings provide management with a basis for evaluating customer value, product performance, profitability and order cancellations.
 
 The project also demonstrates how SQL can support evidence-based decision-making and the development of actionable business recommendations.
+This project demonstrates the practical application of PostgreSQL in solving retail business problems.
+It progresses from basic data retrieval and aggregation to advanced SQL techniques, reusable database objects and management reporting.
